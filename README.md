@@ -1,6 +1,4 @@
 # How to run extraction script
-python3 -m venv
-source venv/bin/activate
-python3 setup.py install
-python3 bin/extract_text.py $INPUT_DIR $OUTPUT_DIR
+pip install psd_tools
+python3 bin/extract_text.py --input_dir $INPUT_DIR --output_dir $OUTPUT_DIR
 
