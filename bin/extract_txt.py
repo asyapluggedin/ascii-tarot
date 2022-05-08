@@ -17,7 +17,7 @@ if __name__ == "__main__":
         psd = PSDImage.open(name)
         for layer in psd:
             if isinstance (layer, TypeLayer):
-               filename = name.split('.')[0].strip().lower().replace(' ', '_')
-               out = open(args.output_dir + filename, 'w')
-               text = str(layer._data.text_data.get(b'Txt ')).replace('\\r','\n').strip("'").rstrip('\x00')
+               filename = name.split('/')[-1].split('.')[0].strip().lower().replace(' ', '_')
+               out = open(args.output_dir + filename + ".txt", 'w')
+               text = str(layer._data.text_data.get(b'Txt ')).replace('\\r','\n').strip("'").rstrip('\\x00')
                out.write(text)
