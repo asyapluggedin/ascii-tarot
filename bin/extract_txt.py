@@ -19,5 +19,6 @@ if __name__ == "__main__":
             if isinstance (layer, TypeLayer):
                filename = name.split('/')[-1].split('.')[0].strip().lower().replace(' ', '_')
                out = open(args.output_dir + filename + ".txt", 'w')
-               text = str(layer._data.text_data.get(b'Txt ')).replace('\\r','\n').strip("'").rstrip('\\x00')
+               text = str(layer._data.text_data.get(b'Txt ')).replace('\\r','\n').strip("'").replace(u'\\x00', '').replace("\\\\","\\").replace(u'\\xa0', ' ').replace("\\'", "'").strip('"')
+               print(text)
                out.write(text)
