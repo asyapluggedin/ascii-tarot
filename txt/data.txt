@@ -1,0 +1,58 @@
+orderNumber: "0"
+card: "The Fool"
+art: ""
+description: "beginnings, new journeys, trust, hope, optimism, innocence, spontaneity, eccentricity"
+reversed_description: "naiveté, inexperienced, unworldly, easily duped, risky, chaos, bad judgement"
+
+orderNumber: "1"
+card: "The Magician"
+art: ""
+description: "creative power, vision, mastery, energy, focus, control, organization, self-discipline, transformation of dreams into reality"
+reversed_description: "indecisive, poor with follow-through, lacking commitment, misuse of power, lacking energy, cheating, conning"
+
+orderNumber: "2"
+card: "The High Priestess"
+art: ""
+description: "intuition, instinct, dreams, mysteries, deep emotions, greater powers at work"
+reversed_description: "repressed intution, blocks, false allies, hidden enemies, hidden agendas, answers locked away"
+
+orderNumber: "3"
+card: "The Empress"
+art: ""
+description: "fruitfulness, fertility, fulfillment, sensuality, beauty, nurturing, motherhood"
+reversed_description: "result of energy wasted, abilities obstructed, laziness, poverty, feeling impoverished, problems at home"
+
+orderNumber: "4"
+card: ""
+art: ""
+description: ""
+
+orderNumber: "5"
+card: ""
+art: ""
+description: ""
+
+orderNumber: "6"
+card: ""
+art: ""
+description: ""
+
+orderNumber: "7"
+card: ""
+art: ""
+description: ""
+
+orderNumber: "8"
+card: ""
+art: ""
+description: ""
+
+orderNumber: "9"
+card: ""
+art: ""
+description: ""
+
+orderNumber: ""
+card: ""
+art: ""
+description: ""

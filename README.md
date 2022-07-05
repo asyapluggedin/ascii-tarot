@@ -11,13 +11,14 @@ In 2022, I revisited my work on the project to turn it into a CLI tarot reading 
 This section will eventually become a separate .md file that anybody can access to see how my workflow was going during the making of this program.
 
 #### To Do List
-- [ ] Add .gitignore
+
 - [ ] write specs for simple interaction user flow
 - [ ] look at intro to Go (~1hr) grok types and pointers frsure
 
 ### 06-05-2022
-- Decided on using tcell (confidence level re: decision: 75%)
-- Committed to writing daily progress logs in the README
+- [x] ~~Decide on technology~~ Will be using Go, tcell, python if needed (confidence level re: decision: 75%) Will NOT be using Perl </3
+- [x] Commit to writing daily progress logs in the README
+- [x] Add .gitignore
 
 
 ## Installation
