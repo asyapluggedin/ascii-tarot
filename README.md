@@ -29,9 +29,9 @@ This section will eventually become a separate .md file that anybody can access 
 
 ## Collaborators
 
-Benjamin Bascom wrote the extraction script that ripped the text elements from the .psd's I made in 2016.
+@MOCSABNIMAJNEB wrote the extraction script that ripped the text elements from the .psd's I made in 2016.
 
-Mischa Snook helped me decide which technologies to use for the project, and paired with me during the programming process.
+@dwimmertxt helped me decide which technologies to use for the project, and paired with me during the programming process.
 
 ## Physical Deck
 

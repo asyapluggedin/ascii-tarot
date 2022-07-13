@@ -468,8 +468,8 @@ aceSwords := new(Card){
 	numeral: "I",
     name: "Ace of Swords",
     art: "",
-    desc: []{""}
-    rDesc: []{}
+    desc: []{"new thoughts and ideas", "new possiblities", "transformative energy", "triumph", "power", "conequest", "karma", "balance"}
+    rDesc: []{"sudden changes", "imbalanced mind", "quarrels and arguments", "irritability", "conception"}
 }
 
 twoSwords := new(Card){
@@ -477,8 +477,8 @@ twoSwords := new(Card){
 	numeral: "II",
     name: "Two of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"friendship", "agreement", "balance", "stalemate", "justice", "return to peace", "calm after the storm"}
+    rDesc: []{"caution", "confusion", "lies and deceit", "duplicity", "slow change"}
 }
 
 threeSwords := new(Card){
@@ -486,8 +486,8 @@ threeSwords := new(Card){
 	numeral: "III",
     name: "Three of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"removal", "betrayal", "absence", "sorrow", "breakdown in relationships", "love triangle", "reassessment", "deception", "healing", "adultery"}
+    rDesc: []{"emotional stress / pain", "anxiety", "error", "distraction", "confusion"}
 }
 
 fourSwords := new(Card){
@@ -495,8 +495,8 @@ fourSwords := new(Card){
 	numeral: "IV",
     name: "Four of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"rest", "relaxation", "withdrawing mentally", "retreat", "recluse", "need for peace and quiet", "time for reassessment", "small vacation", "solitude"}
+    rDesc: []{"restlessness", "health issues", "limited progress", "feeling isolated", "burnout"}
 }
 
 fiveSwords := new(Card){
@@ -504,8 +504,8 @@ fiveSwords := new(Card){
 	numeral: "V",
     name: "Five of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"loss", "destruction", "failure", "damage", "sense of unfairness", "powerstruggles", "creation of something new", "underhandedness"}
+    rDesc: []{"releasing pride", "defeat", "acceptance of defeat", "learning to abandon self-pity", "moving towards a fresh start", "burial", "funerals"}
 }
 
 sixSwords := new(Card){
@@ -513,8 +513,8 @@ sixSwords := new(Card){
 	numeral: "VI",
     name: "Six of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"leaving strife behind", "pleasant times", "alleviating stress", "renewed hope", "relief", "travel", "tenacity"}
+    rDesc: []{"struggle", "confession", "publicity", "grit", "hanging by a thread", "temporary truce", "eye of the storm", "delayed victory"}
 }
 
 sevenSwords := new(Card){
@@ -522,8 +522,8 @@ sevenSwords := new(Card){
 	numeral: "VII",
     name: "Seven of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"sporadic effort", "huge volume of ideas", "schemes", "inability to do just one thing", "projects left unfinished", "mental stimulation", "idea theft", "plans that may fail"}
+    rDesc: []{"confidence", "hype", "false promises", "manipulation", "slander"}
 }
 
 eightSwords := new(Card){
@@ -531,8 +531,8 @@ eightSwords := new(Card){
 	numeral: "VIII",
     name: "Eight of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"bondage", "stuck", "crisis", "restriction", "closed state of mind", "need for fresh thoughts", "outside assistance", "feeling trapped"}
+    rDesc: []{"release", "unsettled", "opposition", "open to new perspectives", "fresh start"}
 }
 
 nineSwords := new(Card){
@@ -540,8 +540,8 @@ nineSwords := new(Card){
 	numeral: "IX",
     name: "Nine of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"opression", "anxiety", "stress", "worries", "no way out", "sleepless nights", "trapped by fears", "despair"}
+    rDesc: []{"imprisonment", "torment", "dark night of the soul", "shame", "rational fear"}
 }
 
 tenSwords := new(Card){
@@ -549,8 +549,8 @@ tenSwords := new(Card){
 	numeral: "X",
     name: "Ten of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"betrayal", "backstabbing", "slander", "gossip", "revealed secrets", "end of relationships", "rock bottom"}
+    rDesc: []{"depression", "negative thinking", "pessimism", "troubled period", "inevitability", "unconscious beliefs"}
 }
 
 pageSwords := new(Card){
@@ -558,8 +558,8 @@ pageSwords := new(Card){
 	numeral: "p",
     name: "Page of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"brilliance", "curiosity", "strong ideas", "spying", "perceptive", "practical"}
+    rDesc: []{"meddling", "vindictive", "mean", "aggression", "critical member of family"}
 }
 
 knightSwords := new(Card){
@@ -567,8 +567,8 @@ knightSwords := new(Card){
 	numeral: "k",
     name: "Knight of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"sharp", "egoist", "bravery", "competitive", "seductive", "damaging", "fearless", "rage", "war"}
+    rDesc: []{"recklessness", "rival", "tyranny", "drug / alcohol abuse", "collapse"}
 }
 
 queenSwords := new(Card){
@@ -576,8 +576,8 @@ queenSwords := new(Card){
 	numeral: "Q",
     name: "Queen of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"witty", "sharp mind", "sarcastic", "widowed", "freedom", "logical", "hard", "loyal", "reserved"}
+    rDesc: []{"evil-minded", "predator", "unfeeling", "spiteful", "critical", "cold", "distant", "prude", "stubborn"}
 }
 
 kingSwords := new(Card){
@@ -585,8 +585,8 @@ kingSwords := new(Card){
 	numeral: "K",
     name: "King of Swords",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"intellectual", "powerful authority", "military intelligence", "law", "achiever", "defender"}
+    rDesc: []{"authoritarian", "rude", "cruel", "strong enemy", "stormy moods", "anger", "evil intent"}
 }
 
 // minor arcana: pentacles
@@ -603,8 +603,8 @@ acePentacles := new(Card){
 	numeral: "I",
     name: "Ace of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"contentment", "increase", "ecstacy", "new sources of money", "prosperity contentment", "windfalls", "new business", "confidence and security with money"}
+    rDesc: []{"greed", "fear of scarcity", "hoarding", "disappointments in new jobs", "balancing the desire for money and personal satisfaction"}
 }
 
 twoPentacles := new(Card){
@@ -612,8 +612,8 @@ twoPentacles := new(Card){
 	numeral: "II",
     name: "Two of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"financial balance", "extra work", "new skills", "business development", "harmony", "entrepreneur", "assistance"}
+    rDesc: []{"financial discord", "lack of focus", "growing debts", "inconsistent action", "need for purpose"}
 }
 
 threePentacles := new(Card){
@@ -621,8 +621,8 @@ threePentacles := new(Card){
 	numeral: "III",
     name: "Three of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"one's forte", "apprenticeship", "learning a new skill", "working towards self-improvement", "gaining skills that will lead to prosperity long term"}
+    rDesc: []{"mediocrity", "stick in the mud", "unwilling to invest the time needed", "holding yourself back", "childish behaviour", "not getting external recognition"}
 }
 
 fourPentacles := new(Card){
@@ -630,8 +630,8 @@ fourPentacles := new(Card){
 	numeral: "IV",
     name: "Four of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"financial stability", "healthy income", "modest gains", "inheritance", "responsible", "savings and investments"}
+    rDesc: []{"social climber", "greed", "miserly actions", "materialism", "financial worries"}
 }
 
 fivePentacles := new(Card){
@@ -639,8 +639,8 @@ fivePentacles := new(Card){
 	numeral: "V",
     name: "Five of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"despair", "financial hardships", "lack of faith", "troublesome times", "internal struggles", "poverty", "lack of optimism"}
+    rDesc: []{"discord", "wantonness", "chaos", "ruin"}
 }
 
 sixPentacles := new(Card){
@@ -648,8 +648,8 @@ sixPentacles := new(Card){
 	numeral: "VI",
     name: "Six of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"gifts", "help given and received", "practical help", "philanthropy", "charity", "using influence or success to help others"}
+    rDesc: []{"poor spending habits", "gambling losses", "bribes", "desire", "theft", "greed"}
 }
 
 sevenPentacles := new(Card){
@@ -657,8 +657,8 @@ sevenPentacles := new(Card){
 	numeral: "VII",
     name: "Seven of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"long-term investment", "vision", "growth of business", "self-doubt", "satisfying work", "groundless fears", "perserverance"}
+    rDesc: []{"mental exhaustion", "anxiety wrt money", "limited reward", "lacking vision", "reasessment", "new direction", "fresh start"}
 }
 
 eightPentacles := new(Card){
@@ -666,8 +666,8 @@ eightPentacles := new(Card){
 	numeral: "VIII",
     name: "Eight of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"new skills", "apprenticeship", "building on previous experience", "education", "expansion", "small savings", "financial management"}
+    rDesc: []{"emptied ambitions", "limitations at work", "lack of growth", "no new potential", "dishonesty in business", "questionable ethics", "moonlighting"}
 }
 
 ninePentacles := new(Card){
@@ -675,8 +675,8 @@ ninePentacles := new(Card){
 	numeral: "IX",
     name: "Nine of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"prosperity", "money flowing", "the finer things", "pleasure", "accomplishment", "enjoying success"}
+    rDesc: []{"lack of funds", "bad investments", "unable to expand a business", "cancelled projects", "temporary loss", "altering one's lifestyle"}
 }
 
 tenPentacles := new(Card){
@@ -684,8 +684,8 @@ tenPentacles := new(Card){
 	numeral: "X",
     name: "Ten of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"gains", "family affairs", "gifts", "inheritance", "tax refunds", "family residence"}
+    rDesc: []{"financial dreams", "unexpected expenses", "burdeonsome family", "dangerous games", "disappointments"}
 }
 
 pagePentacles := new(Card){
@@ -693,8 +693,8 @@ pagePentacles := new(Card){
 	numeral: "p",
     name: "Page of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"studiousness", "good news about money", "a raise", "profits from investments", "unexpected losses", "messages", "thief of good nature"}
+    rDesc: []{"lacking progress", "introverted", "illogical", "children", "moody", "irrational tidings", "social issues"}
 }
 
 knightPentacles := new(Card){
@@ -702,8 +702,8 @@ knightPentacles := new(Card){
 	numeral: "k",
     name: "Knight of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"useful", "determined", "ambitious", "successful", "conventional", "loyal", "moral rectitude"}
+    rDesc: []{"apathy", "stagnation", "laziness", "doldrums", "careless with money"}
 }
 
 queenPentacles := new(Card){
@@ -711,8 +711,8 @@ queenPentacles := new(Card){
 	numeral: "Q",
     name: "Queen of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"lavish", "generous", "luxury", "warm-hearted", "maternal", "practical", "financial stability", "selfishness"}
+    rDesc: []{"greed", "gold-digger", "overly ambitious", "money over friends", "untrustworthy", "plotting", "indulgences", "self-centered"}
 }
 
 kingPentacles := new(Card){
@@ -720,8 +720,8 @@ kingPentacles := new(Card){
 	numeral: "K",
     name: "King of Pentacles",
     art: "",
-    desc: []{}
-    rDesc: []{}
+    desc: []{"wealthy", "valor", "skilled at mathematics", "responsibility", "head of industry", "love of luxury", "posessive", "steadfast"}
+    rDesc: []{"miser", "corruption", "bully", "jealousy", "unwilling to take risks", "large companies", "insufficient funds", "money delayed"}
 }
 
 // block template

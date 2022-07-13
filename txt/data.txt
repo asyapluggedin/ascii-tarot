@@ -14,7 +14,7 @@ orderNumber: "2"
 card: "The High Priestess"
 art: ""
 description: "intuition, instinct, dreams, mysteries, deep emotions, greater powers at work"
-reversed_description: "repressed intuition, blocks, false allies, hidden enemies, hidden agendas, answers locked away"
+reversed_description: "repressed intution, blocks, false allies, hidden enemies, hidden agendas, answers locked away"
 
 orderNumber: "3"
 card: "The Empress"
